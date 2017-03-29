@@ -4,7 +4,6 @@ name = "portaudio_sys"
 version = "0.1.1"
 authors = ["Mathijs van de Nes <git@mathijs.vd-nes.nl>"]
 links = "portaudio"
-build = "build.rs"
 
 [lib]
 name = "portaudio_sys"
